@@ -15,6 +15,9 @@ import ru.yandex.qatools.ashot.shooting.ShootingStrategies;
 import ru.yandex.qatools.ashot.shooting.ShootingStrategy;
 
 public class AshotScreenCpature {
+	
+	//Changes done by deepak dude on 28-9
+	//Changes
 
 	public static void main(String[] args) throws IOException {
 		WebDriverManager.chromedriver().setup();
